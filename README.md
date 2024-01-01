@@ -1,5 +1,6 @@
 ### Hey ! 👋
 <h2> I am Dhruvi Kothari :smiley: </h2>
+
 # 💫 About Me:
 🔭 I’m currently working on:<br>Technologies like MERN, PHP, Flutter and Dart.<br><br>👯 I’m looking to collaborate on:<br>Open Source projects<br><br>🌱 I’m currently learning:<br>AWS Services and Understanding user requirements.<br><br>💬 Ask me about:<br>JavaScript, React, Node.js, Flutter and any general software development questions.<br><br>⚡ Fun fact:<br>I love creating content.
 
