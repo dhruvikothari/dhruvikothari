@@ -1,9 +1,16 @@
-### Hey ! 👋
-<h2> I am Dhruvi Kothari :smiley: </h2>
+<h1 align="center">Hi 👋, I'm Dhruvi Korthari</h1>
+<h3 align="center">Software Development Engineer ┆ 2K+ Followers @LinkedIn ┆ Mitacs GRI'24 @Simon Fraser University ┆ IEEE WIE CHAIR ┆ YI Co-Chair</h3>
+
+<div align="center">
+<!--   <a href="https://visitcount.itsvg.in/api?id=siddhapuraharsh&icon=6&color=2"> -->
+    <a href="https://komarev.com/ghpvc/?username=dhruvikothari&label=Profile%20views&color=0e75b6&style=flat">
+<!--     <img src="https://visitcount.itsvg.in/api?id=siddhapuraharsh&icon=6&color=2" alt="Visit Count"> -->
+    <img src="https://komarev.com/ghpvc/?username=dhruvikothari&label=Profile%20views&color=0e75b6&style=flat" alt="Visit Count" />
+  </a>
+</div>
 
 # 💫 About Me:
-🔭 I’m currently working on:<br>Technologies like MERN, PHP, Flutter and Dart.<br><br>👯 I’m looking to collaborate on:<br>Open Source projects<br><br>🌱 I’m currently learning:<br>AWS Services and Understanding user requirements.<br><br>💬 Ask me about:<br>JavaScript, React, Node.js, Flutter and any general software development questions.<br><br>⚡ Fun fact:<br>I love creating content.
-
+🔭 🔭 I’m currently working on:<br>Fullstack Web Development, Machine Learning, Artificial Intillegence and various other cutting-edge technologies<br><br>👯 I’m looking to collaborate in:<br>Open-Source Projects and Startups<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dhruvi-kothari/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/23182244/dhruvi-kothari) 
